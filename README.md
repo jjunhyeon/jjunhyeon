@@ -18,7 +18,7 @@
 <br>  
   
   
-### ⛏Github Status
+### ⛏Github Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjunhyeon&show_icons=true&theme=merko)
 <br> 

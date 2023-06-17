@@ -27,5 +27,5 @@
 
 
 ### 🏆Ability
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junh1266(https://solved.ac/junh1266)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junh1266)](https://solved.ac/junh1266)
 </div>

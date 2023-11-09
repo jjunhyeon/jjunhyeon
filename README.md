@@ -16,16 +16,6 @@
 <br>
 <br>
   
-### ⛏Github Stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjunhyeon&show_icons=true&theme=merko)
-<br> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunhyeon&layout=donut&size_weight=0.5&count_weight=0.5)
-<br>
-<br>
-<br>
-<br>
-
 ### 🏆Ability
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junh1266)](https://solved.ac/junh1266)
 </div>

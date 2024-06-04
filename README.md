@@ -42,6 +42,8 @@
 
 <a href="https://www.acmicpc.net/user/junh1266"><img src="https://img.shields.io/badge/BOJ-3766AB?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
 
+[알고리즘 확인하기](https://github.com/jjunhyeon/algorithm)
+
 * * * 
 
 ### 👩‍💻 Side Projects

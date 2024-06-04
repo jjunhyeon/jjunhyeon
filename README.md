@@ -48,4 +48,4 @@
 |Period|Title|Description|
 |---|---|---|
 |2024.02 ~ 2024.02|[TasteLab](https://bside.best/projects/detail/P240123133002)|맛렙 - 음식 커스텀을 통해 꿀조합을 찾아주는 서비스|
-|2023.06 ~ 2024.05|[Jucaster]()|주식과 날씨를 결합한 주가 예측 서비스|
+|2023.06 ~ |[Jucaster]()|주식과 날씨를 결합한 주가 예측 서비스|

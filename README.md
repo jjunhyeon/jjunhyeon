@@ -1,5 +1,5 @@
 
-## Hello, World
+## Hello.
 
 <a href="https://dogdeveloper1266.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:sonjs01@naver.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=black"/></a>

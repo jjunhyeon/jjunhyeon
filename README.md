@@ -3,7 +3,6 @@
 
 <a href="https://dogdeveloper1266.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:sonjs01@naver.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=black"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjunhyeon&count_bg=%233C87CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **문제 해결 능력 향상**을 위해 꾸준히 나아가고 있는 개발자입니다.  
 
